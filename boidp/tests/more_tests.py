@@ -1,6 +1,6 @@
 
 from nose.tools import assert_raises, assert_equal
-from ..boidp import Boids
+from ..boids import Boids
 import os
 import yaml
 import numpy as np
